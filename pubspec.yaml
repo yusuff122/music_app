@@ -1,0 +1,70 @@
+name: music_app
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.0 <3.0.0'
+ 
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^4.0.4
+  provider: ^6.0.5
+  sizer: ^2.0.15
+  salomon_bottom_bar: ^3.3.2
+  marquee: ^2.2.3
+  card_swiper: ^3.0.1
+  dynamic_height_grid_view: ^0.0.4
+  audio_video_progress_bar: ^1.0.1
+  dropdown_button2: ^2.1.4
+  image_picker: ^1.0.4
+  path_provider: ^2.1.1
+  permission_handler: ^11.0.1
+  
+  on_audio_query: ^2.9.0
+  shared_preferences: ^2.2.2
+  just_audio: ^0.9.36
+  searchbar_animation: ^0.0.4
+  flutter_media_metadata: ^1.0.0+1
+  #flutter_audio_query: ^0.3.4+1
+  #flute_music_player: ^0.0.6
+ 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+
+flutter:
+
+ 
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - images/
+  #   - images/a_dot_ham.jpeg
+
+  # example:
+  fonts:
+    - family: elYazisi
+      fonts:
+        - asset: fonts/PlaypenSans-VariableFont_wght.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+    - family: musikCardYazi
+      fonts:
+        - asset: fonts/RobotoSlab-VariableFont_wght.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+ 
