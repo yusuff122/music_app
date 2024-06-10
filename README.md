@@ -4,14 +4,29 @@ A new Flutter project.
 
 ## Getting Started
 
+Follow these instructions to build and run the project
 
+## Setup Flutter
+A detailed guide for multiple platforms setup could be find [here](https://docs.flutter.dev/get-started/install)
 
+* Clone this repository using  ``` git clone https://github.com/yusuff122/music_app```
 
- 
+* ```cd``` into ```music__app```
 
-<img width="341" alt="Ekran Resmi 2024-06-10 14 35 15" src="https://github.com/yusuff122/music_app/assets/99033192/7e5696d3-9325-4ad9-8312-50326234808a">
+* ```flutter pub get``` to get all the dependencies.
 
-![x](https://github.com/yusuff122/odev-mainn/assets/99033192/a99c0bd5-5eec-4a83-8f85-004686aa15f6)
+* Running the app ```flutter run```
+
+## Screenshots
+
+<img width="341"  height="690" alt="Ekran Resmi 2024-06-10 14 35 15" src="https://github.com/yusuff122/music_app/assets/99033192/7e5696d3-9325-4ad9-8312-50326234808a">
+
+<img width="341" height="690" alt="x" src="https://github.com/yusuff122/odev-mainn/assets/99033192/a99c0bd5-5eec-4a83-8f85-004686aa15f6">
+
+<img width="341" height="690" alt="Ekran Resmi 2024-06-10 14 56 13" src="https://github.com/yusuff122/odev-mainn/assets/99033192/c2ff01bc-02a3-4af5-98f5-75398de4a7ed">
+
+<img width="341" height="690" alt="Ekran Resmi 2024-06-10 14 55 02" src="https://github.com/yusuff122/odev-mainn/assets/99033192/32b00fac-4340-47c1-bb92-751c244277bf">
+
 
 ## Project Structure
 
